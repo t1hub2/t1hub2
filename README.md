@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @t1hub2
 - 👀 I’m interested in Making roblox cheats
-- 🌱 I’m currently learning lua
-- 💞️ I’m looking to collaborate on no one.
-- 📫 How to reach me (I'm stupid you all are literally better than me)
-- 😄 Pronouns: what is pronous?
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing roblox doors!
 
 <!---
